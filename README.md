@@ -27,4 +27,6 @@ Dragoon Framework - Framework for Lua and LÖVE
 * lua/color - color utility (third party)
 * love/redshift - redshift-like support for love
 * love/idle - idle signal module
+* lua/sandbox - secure virtual environement for Lua
+* love/sandbox - secure virtual environement for LOVE
 
