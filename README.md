@@ -14,6 +14,7 @@ Dragoon Framework - Framework for Lua and LÖVE
 
 * lua/classcommons2 - Multiple class system support
 * love/gui - GUI for love
+* love/inputs - inputs absraction layer
 * lua/strict - Strict environment enforcement
 * lua/metalock - Metatable locking system
 * lua/tableprint - Show table as string (With inspect-lua)
@@ -23,4 +24,7 @@ Dragoon Framework - Framework for Lua and LÖVE
 * lua/utf8 - UTF8 utils
 * lua/multilang - Localized text support
 * love/loader - Powerfull way to load rescources
+* lua/color - color utility (third party)
+* love/redshift - redshift-like support for love
+* love/idle - idle signal module
 
