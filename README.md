@@ -1,7 +1,16 @@
-# dragoon-framework
+# Dragoon Framework
 
-Dragoon Framework - Framework for Lua and LÖVE
+Dragoon Framework - Framework for Lua, LÖVE and more ...
 
+planned structure :
+```
+dragoon-framwork/
+    lua/           The common Lua modules
+        minimal/   The common bootstrap Lua modules
+    love/          The LÖVE 2D specific modules
+    nginx/         The NGINX specific modules
+    a1/            The AlephOne specific modules
+```
 
 # Features released
 
@@ -29,4 +38,5 @@ Dragoon Framework - Framework for Lua and LÖVE
 * love/idle - idle signal module
 * lua/sandbox - secure virtual environement for Lua
 * love/sandbox - secure virtual environement for LOVE
+* all/networks - multiple cross-compatible network support
 
