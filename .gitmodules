@@ -1,0 +1,3 @@
+[submodule "lua/minimal"]
+	path = lua/minimal
+	url = https://github.com/tst2005/lua-minimal
