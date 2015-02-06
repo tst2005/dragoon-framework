@@ -1,3 +1,6 @@
 [submodule "lua/minimal"]
 	path = lua/minimal
 	url = https://github.com/tst2005/lua-minimal
+[submodule "lua/classcommons2"]
+	path = lua/classcommons2
+	url = https://github.com/tst2005/lua-classcommons2
