@@ -14,10 +14,11 @@ dragoon-framwork/
 
 # Features released
 
-* lua/newmodule - simple and powerfull way to define module, and load sub-modules
-* lua/provide - package management
-* lua/minimal - The Bootstrap of the framework (include newmodule and provide)
-* love/lovemodular - LOVE module and LOVE callbacks managment
+* [lua-newmodule](https://github.com/tst2005/lua-newmodule) - simple and powerfull way to define module, and load sub-modules
+* [lua-provide](https://github.com/tst2005/lua-provide) - package management
+* [lua-minimal](https://github.com/tst2005/lua-minimal) - The Bootstrap of the framework (include newmodule and provide)
+* [lovemodular](https://github.com/tst2005/lovemodular) - LOVE module and LOVE callbacks managment
+* [pathfix](https://github.com/tst2005/lua-minimal/blob/master/pathfix.lua) - Fix package path
 
 # Features not released yet
 
@@ -28,7 +29,6 @@ dragoon-framwork/
 * lua/metalock - Metatable locking system
 * lua/tableprint - Show table as string (With inspect-lua)
 * lua/database - Database support and schema managment
-* lua/pathfix - Fix package path
 * lua/compat-env - Fix the environment functions
 * lua/utf8 - UTF8 utils
 * lua/multilang - Localized text support
