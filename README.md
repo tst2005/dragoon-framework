@@ -24,7 +24,7 @@ dragoon-framwork/
 
 * lua/classcommons2 - Multiple class system support
 * love/gui - GUI for love
-* love/inputs - inputs absraction layer
+* [love/input](https://github.com/tst2005/love-input/) - input absraction layer
 * lua/strict - Strict environment enforcement
 * lua/metalock - Metatable locking system
 * lua/tableprint - Show table as string (With inspect-lua)
