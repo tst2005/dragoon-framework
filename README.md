@@ -17,9 +17,9 @@ dragoon-framwork/
 
 * [lua/minimal](https://github.com/tst2005/lua-minimal)/ - The Bootstrap of the framework (include newmodule, provide and pathfix)
 
->> * [newmodule](https://github.com/tst2005/lua-newmodule) - simple and powerfull way to define module, and load sub-modules
->> * [provide](https://github.com/tst2005/lua-provide) - package management
->> * [pathfix](https://github.com/tst2005/lua-minimal/blob/master/pathfix.lua) - Fix package path
+> * [newmodule](https://github.com/tst2005/lua-newmodule) - simple and powerfull way to define module, and load sub-modules
+> * [provide](https://github.com/tst2005/lua-provide) - package management
+> * [pathfix](https://github.com/tst2005/lua-minimal/blob/master/pathfix.lua) - Fix package path
 
 * [lua/classcommons2](https://github.com/tst2005/lua-classcommons2)/ - Multiple class system support
 * [love/modular](https://github.com/tst2005/lovemodular)/ - LOVE module and LOVE callbacks managment
