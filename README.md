@@ -14,20 +14,24 @@ dragoon-framwork/
 
 # Features released
 
-* [lua-newmodule](https://github.com/tst2005/lua-newmodule) - simple and powerfull way to define module, and load sub-modules
-* [lua-provide](https://github.com/tst2005/lua-provide) - package management
-* [lua-minimal](https://github.com/tst2005/lua-minimal) - The Bootstrap of the framework (include newmodule and provide)
-* [lovemodular](https://github.com/tst2005/lovemodular) - LOVE module and LOVE callbacks managment
-* [pathfix](https://github.com/tst2005/lua-minimal/blob/master/pathfix.lua) - Fix package path
+
+* [lua/minimal](https://github.com/tst2005/lua-minimal)/ - The Bootstrap of the framework (include newmodule, provide and pathfix)
+
+>> * [newmodule](https://github.com/tst2005/lua-newmodule) - simple and powerfull way to define module, and load sub-modules
+>> * [provide](https://github.com/tst2005/lua-provide) - package management
+>> * [pathfix](https://github.com/tst2005/lua-minimal/blob/master/pathfix.lua) - Fix package path
+
+* [lua/classcommons2](https://github.com/tst2005/lua-classcommons2)/ - Multiple class system support
+* [love/modular](https://github.com/tst2005/lovemodular)/ - LOVE module and LOVE callbacks managment
+* [love/input](https://github.com/tst2005/love-input/)/ - input abstraction layer
+
 
 # Features not released yet
 
-* lua/classcommons2 - Multiple class system support
 * love/gui - GUI for love
-* [love/input](https://github.com/tst2005/love-input/) - input absraction layer
 * lua/strict - Strict environment enforcement
 * lua/metalock - Metatable locking system
-* lua/tableprint - Show table as string (With inspect-lua)
+* lua/tableprint - Show table as string (with [lua-inspect](https://github.com/tst2005/lua-inspect))
 * lua/database - Database support and schema managment
 * lua/compat-env - Fix the environment functions
 * lua/utf8 - UTF8 utils
