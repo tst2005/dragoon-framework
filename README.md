@@ -44,3 +44,12 @@ dragoon-framwork/
 * love/sandbox - secure virtual environement for LOVE
 * all/networks - multiple cross-compatible network support
 
+
+# Studing
+
+## Unit Test
+
+* [busted](https://github.com/Olivine-Labs/busted), [doc](http://olivinelabs.com/busted/#overview)
+* [telescope](https://github.com/norman/telescope)
+
+
