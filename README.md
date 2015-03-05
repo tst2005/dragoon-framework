@@ -26,9 +26,11 @@ dragoon-framwork/
 * [love/input](https://github.com/tst2005/love-input/)/ - input abstraction layer
 
 
+
 # Features not released yet
 
-* love/gui - GUI for love
+* all/networks - multiple cross-compatible network support.
+* -- See [love-network](https://github.com/tst2005/love-network/).
 * lua/strict - Strict environment enforcement
 * lua/metalock - Metatable locking system
 * lua/tableprint - Show table as string (with [lua-inspect](https://github.com/tst2005/lua-inspect))
@@ -42,14 +44,21 @@ dragoon-framwork/
 * love/idle - idle signal module
 * lua/sandbox - secure virtual environement for Lua
 * love/sandbox - secure virtual environement for LOVE
-* all/networks - multiple cross-compatible network support
+* love/gui - GUI for love
 
 
-# Studing
+# Studying
 
 ## Unit Test
 
 * [busted](https://github.com/Olivine-Labs/busted), [doc](http://olivinelabs.com/busted/#overview)
 * [telescope](https://github.com/norman/telescope)
 
+## Debug utils
+
+* https://github.com/cloudwu/lua-trace
+* https://rocks.moonscript.org/modules/hisham/lutrace
+* https://github.com/ignacio/StackTracePlus
+* https://rocks.moonscript.org/modules/gunnar_z/debug.lua
+* https://github.com/pkulchenko/MobDebug/
 
