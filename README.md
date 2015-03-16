@@ -5,11 +5,19 @@ Dragoon Framework - Framework for Lua, LÖVE and more ...
 planned structure :
 ```
 dragoon-framwork/
-    lua/           The common Lua modules
-        minimal/   The common bootstrap Lua modules
-    love/          The LÖVE 2D specific modules
-    nginx/         The NGINX specific modules
-    a1/            The AlephOne specific modules
+    lua/               The common Lua modules
+        minimal/       The common bootstrap Lua modules
+        ...            Framework contents for Lua (common to love/nginx/a1/...)
+        thirdparty/    Lua third-parties
+
+    love/              The LÖVE specific modules
+        ...            Framework contents for LÖVE
+        thirdparty/    LÖVE third-parties
+
+    nginx/             The NGINX specific modules
+
+    a1/                The AlephOne specific modules
+
 ```
 
 # Features released
