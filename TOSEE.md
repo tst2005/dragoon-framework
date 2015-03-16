@@ -25,6 +25,8 @@ serial :
 	https://github.com/cloudwu/lua-bson ; https://github.com/cloudwu/bsonspec.org
 	https://rocks.moonscript.org/modules/luarocks/datadumper
 
+	sample of request : https://love2d.org/forums/viewtopic.php?f=4&t=79806
+
 xml	http://doc.lubyk.org/xml.html  https://rocks.moonscript.org/modules/gaspard/xml  http://rapidxml.sourceforge.net/
 	http://yaml.luaforge.net/
 
@@ -78,11 +80,6 @@ option parse :
 
 all-in-one :
 	https://github.com/siffiejoe/lua-amalg/
-
-color :
-	https://rocks.moonscript.org/modules/kikito/ansicolors
-	https://rocks.moonscript.org/modules/ldrumm/chroma
-
 
 web:
 	https://rocks.moonscript.org/modules/luarocks/cgilua
@@ -187,3 +184,6 @@ misc :
 	https://github.com/Sinaloit/SublimeLinter-contrib-lua-globals
 	https://github.com/mkandrashoff/lua-lxsh
 
+
+sound :
+	sound manager : https://github.com/bartbes/love-misc-libs/blob/master/Soundmanager/soundmanager.lua
