@@ -71,6 +71,11 @@ dragoon-framwork/
 * https://github.com/pkulchenko/MobDebug/
 
 
+# Interesting links
+
+* http://lua-users.org/wiki/ModuleReview
+
+
 # License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
