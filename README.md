@@ -70,3 +70,7 @@ dragoon-framwork/
 * https://rocks.moonscript.org/modules/gunnar_z/debug.lua
 * https://github.com/pkulchenko/MobDebug/
 
+
+# License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
