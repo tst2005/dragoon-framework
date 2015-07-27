@@ -61,6 +61,7 @@ dragoon-framwork/
 
 * [busted](https://github.com/Olivine-Labs/busted), [doc](http://olivinelabs.com/busted/#overview)
 * [telescope](https://github.com/norman/telescope)
+* [luassert](https://github.com/Olivine-Labs/luassert)
 
 ## Debug utils
 
@@ -69,6 +70,11 @@ dragoon-framwork/
 * https://github.com/ignacio/StackTracePlus
 * https://rocks.moonscript.org/modules/gunnar_z/debug.lua
 * https://github.com/pkulchenko/MobDebug/
+
+## Serialization
+
+ * [Ser](https://github.com/gvx/Smallfolk) or [Smallfolk](https://github.com/gvx/Smallfolk)
+ * [serpent](https://github.com/pkulchenko/serpent)
 
 
 # Interesting links
